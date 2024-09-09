@@ -66,3 +66,5 @@ Console.WriteLine("Különbség: " + diff);
 Console.WriteLine("Szorzat: " + prod);
 Console.WriteLine("Hányados: " + quot);
 Console.WriteLine("Maradék: " + rem);
+
+string sztring = "szöveg"; //Unicode karakterek összefűzve
