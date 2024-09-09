@@ -70,3 +70,5 @@ Console.WriteLine("Maradék: " + rem);
 string sztring = "szöveg"; //Unicode karakterek összefűzve
 
 object obdzsekt = new object(); //Minden más típus őse
+
+var elso = "variéböl"; //Tetszőleges típusú változó, azonnal értéket kell adni neki
