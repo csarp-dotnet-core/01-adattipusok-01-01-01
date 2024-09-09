@@ -72,3 +72,8 @@ string sztring = "szöveg"; //Unicode karakterek összefűzve
 object obdzsekt = new object(); //Minden más típus őse
 
 var elso = "variéböl"; //Tetszőleges típusú változó, azonnal értéket kell adni neki
+
+string semmi = "";
+string? nihil = null;
+if (semmi != nihil)
+    Console.WriteLine("A 'null' nem egyenértékű az üres stringgel: \"\".");
